@@ -1718,7 +1718,7 @@ function library:deleteConfig()
         library:refreshConfigs()
     end
 end
-local aimbotTab = library:addTab("Legit")
+local aimbotTab = library:addTab("Main")
 local visualsTab = library:addTab("Ragebot")
 local miscTab = library:addTab("Visuals")
 local miscTab = library:addTab("Misc")
